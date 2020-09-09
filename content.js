@@ -1,5 +1,5 @@
-webhook = "https://discordapp.com/api/webhooks/751237573900238858/bBrgEZYgluPCUvkAerJtiUUPKZR0hNTzJlVKlJVXT9UrQsVQJINmkrL1XYSWPRPh6rGQ" #webhook is dead get your own one :D
-discordid = "<@688250974053203970>" #right click on your discord username and select copy id (shows up in discords debugging mode)
+webhook = "https://discordapp.com/api/webhooks/751237573900238858/bBrgEZYgluPCUvkAerJtiUUPKZR0hNTzJlVKlJVXT9UrQsVQJINmkrL1XYSWPRPh6rGQ"
+discordid = "<@688250974053203970>"
 
 console.log("hacker notif loaded!")
 data = document.getElementsByClassName('logarea')[0].value 
